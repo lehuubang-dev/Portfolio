@@ -1,0 +1,26 @@
+[
+  {
+    "role": "Frontend Developer",
+    "organisation": "Nina Trading and Services Company Limited",
+    "startDate": "March 15, 2025",
+    "endDate": "June 15, 2025",
+    "experiences": [
+      "Designed the store logo using Figma",
+      "Developed web interfaces: Home, Products, About, Blog, Policies",
+      "Integrated APIs with the provided backend system"
+    ],
+    "imageSrc": "https://nina.vn/assets/images/logo.png"
+  },
+  {
+    "role": "Frontend Developer",
+    "organisation": "Green Agricultural Materials Production and Supply Company Limited",
+    "startDate": "September 1, 2024",
+    "endDate": "November 28, 2024",
+    "experiences": [
+      "Developed ReactJS application for agricultural supply management",
+      "Built responsive user interfaces with modern design",
+      "Integrated with backend APIs for data management"
+    ],
+    "imageSrc": "https://images.careerviet.vn/employer_folders/lot6/287436/148x148/102531logo-websitetachnen.png"
+  }
+]

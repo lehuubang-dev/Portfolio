@@ -35,11 +35,11 @@
 }
 
 .description {
-    font-size: 30px;
+    font-size: 28.5px;
     font-family: var(--font-roboto);
     margin-bottom: 52px;
-    text-align: justify;
     text-justify: inter-word;
+    line-height: 1.4;
 }
 
 .contactBtn {
@@ -54,7 +54,7 @@
 }
 
 .heroImg {
-    width: 35%;
+    width: 33%;
     z-index: 1;
     border-radius: 50%;
     aspect-ratio: 1/1;

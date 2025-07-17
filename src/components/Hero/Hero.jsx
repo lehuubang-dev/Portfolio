@@ -9,9 +9,9 @@ export const Hero = () => {
         <p className={styles.description}>
           Passionate Frontend Developer and Software Engineering student at
           Industrial University of Ho Chi Minh City. I specialize in creating
-          beautiful, responsive, and user-friendly web applications,
+          beautiful, responsive and user-friendly web applications,
           transforming complex problems into simple, elegant solutions through
-          clean code and cutting-edge technologies.
+          clean code and cutting edge technologies.
         </p>
         <a href="mailto:lehuubang965@gmail.com" className={styles.contactBtn}>
           Contact Me
