@@ -9,6 +9,7 @@
     z-index: 1;
     margin-left: 10%;
     margin-right: 10%;
+    gap: 50px;
 }
 
 .content {
@@ -37,6 +38,8 @@
     font-size: 30px;
     font-family: var(--font-roboto);
     margin-bottom: 52px;
+    text-align: justify;
+    text-justify: inter-word;
 }
 
 .contactBtn {
@@ -51,7 +54,7 @@
 }
 
 .heroImg {
-    width: 40%;
+    width: 35%;
     z-index: 1;
     border-radius: 50%;
     aspect-ratio: 1/1;
