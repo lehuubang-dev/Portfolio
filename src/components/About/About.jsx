@@ -16,7 +16,7 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src="/assets/about/cursorIcon.png" alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3>
+              <h3>Frontend</h3>
               <p>
                 I'm a frontend developer with experience in Next.js and
                 TypeScript for responsive web and mobile.
@@ -26,7 +26,7 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src="/assets/about/serverIcon.png" alt="Server icon" />
             <div className={styles.aboutItemText}>
-              <h3>Backend Developer</h3>
+              <h3>Backend</h3>
               <p>
                 I have experience developing backend systems and APIs using
                 Spring Boot, Java, and PostgreSQL databases.
@@ -36,7 +36,7 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src="/assets/about/uiIcon.png" alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
+              <h3>UI Design</h3>
               <p>
                 I have designed web and mobile interfaces using Figma, including
                 logos and complete UI systems.

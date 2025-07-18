@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Movie Ticketing Software",
+    "imageSrc": "https://www.galaxycine.vn/_next/static/media/galaxy-logo-mobile.074abeac.png",
+    "description": "The project idea is inspired by the Galaxy Cinema online ticket booking platform.",
+    "skills": ["React Native", "Next JS", "Spring Boot", "PostgreSQL"],
+    "demo": "https://youtu.be/ea9zK-zwXWI?si=PCYZcnYM7TfXXr_r",
+    "source": "https://github.com/Minhquanzz1002/cinema.git"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "ZaloLite",
+    "imageSrc": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/zalo-icon.png",
+    "description": "The idea is based on the famous Vietnamese chat platform - Zalo.",
+    "skills": ["React Native", "Spring Boot", "React JS", "Firebase"],
+    "demo": "https://youtu.be/HcMB9w4fMNo?si=-26gd-a-qKAeiAqO",
+    "source": "https://github.com/sonnees/ZaloLite.git"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Mini-Trello",
+    "imageSrc": "https://techwireasia.com/wp-content/uploads/2017/09/trello.jpg",
+    "description": "Organize your ideas with Mini Trello.",
+    "skills": ["React JS", "Firebase", "TailwindCSS"],
+    "demo": "https://youtu.be/mMIiHqMiV6k?si=f_x95qmSRhfWZ4YV",
+    "source": "https://github.com/bthope/Mini-Trello-App.git"
   }
 ]
