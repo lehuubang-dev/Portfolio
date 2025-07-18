@@ -2,7 +2,7 @@
   {
     "title": "Movie Ticketing Software",
     "imageSrc": "https://www.galaxycine.vn/_next/static/media/galaxy-logo-mobile.074abeac.png",
-    "description": "The project idea is inspired by the Galaxy Cinema online ticket booking platform.",
+    "description": "Inspired by Galaxy Cinema's booking system.",
     "skills": ["React Native", "Next JS", "Spring Boot", "PostgreSQL"],
     "demo": "https://youtu.be/ea9zK-zwXWI?si=PCYZcnYM7TfXXr_r",
     "source": "https://github.com/Minhquanzz1002/cinema.git"
@@ -10,8 +10,8 @@
   {
     "title": "ZaloLite",
     "imageSrc": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/zalo-icon.png",
-    "description": "The idea is based on the famous Vietnamese chat platform - Zalo.",
-    "skills": ["React Native", "Spring Boot", "React JS", "Firebase"],
+    "description": "The idea is based on the famous Vietnamese chat Zalo platform.",
+    "skills": ["React JS", "Firebase","React Native", "Spring Boot"],
     "demo": "https://youtu.be/HcMB9w4fMNo?si=-26gd-a-qKAeiAqO",
     "source": "https://github.com/sonnees/ZaloLite.git"
   },
