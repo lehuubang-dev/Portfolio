@@ -2,15 +2,14 @@ import React from "react";
 import styles from "./Navbar.module.css";
 import { useState } from "react";
 
-// import { useState } from 'react'
 
 export const Navbar = () => {
     const [menuOpen, setMenuOpen] = useState(false);
   return (
     <nav className={styles.navbar}>
       <a className={styles.title} href="/">
-        <img src="/assets/nav/logo.png" alt="Logo" className={styles.logo} />
-        
+        {/* <img src={getImageUrl("nav/logo.png")} alt="Logo" className={styles.logo} /> */}
+        <img src="https://20049601.s3.ap-southeast-1.amazonaws.com/logo.png" alt="Logo" className={styles.logo} />
       </a>
       <div className={styles.menu}>
         <img
