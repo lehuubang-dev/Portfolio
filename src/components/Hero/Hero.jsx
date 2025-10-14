@@ -81,7 +81,7 @@ export const Hero = () => {
         </div>
         <div className={styles.btnContainer}>
           <a
-            href="https://20049601.s3.ap-southeast-1.amazonaws.com/CV.pdf"
+            href="https://20049601.s3.ap-southeast-1.amazonaws.com/LeHuuBang.pdf"
             className={styles.contactBtn}
             download
           >

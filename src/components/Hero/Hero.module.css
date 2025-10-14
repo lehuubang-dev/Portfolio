@@ -149,5 +149,8 @@
     .content{
         align-items: center;
     }
+    .btnContainer{
+        justify-content: center;
+    }
 }
 

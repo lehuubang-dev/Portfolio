@@ -9,7 +9,8 @@ export const Navbar = () => {
     <nav className={styles.navbar}>
       <a className={styles.title} href="/">
         {/* <img src={getImageUrl("nav/logo.png")} alt="Logo" className={styles.logo} /> */}
-        <img src="https://20049601.s3.ap-southeast-1.amazonaws.com/logo.png" alt="Logo" className={styles.logo} />
+        <img src="https://20049601.s3.ap-southeast-1.amazonaws.com/logoFE.png" alt="Logo" className={styles.logo} />
+        <span className={styles.portfolioText}>Portfolio</span>
       </a>
       <div className={styles.menu}>
         <img
